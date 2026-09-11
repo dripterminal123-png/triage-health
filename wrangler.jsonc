@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "triage-health",
+  "compatibility_date": "2026-05-22",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "triage-health-db",
+      "database_id": "431fcecd-b8be-4068-916b-15198a5ecbf6",
+      "migrations_dir": "drizzle"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "stroke",
+    "title": "Stroke warning signs",
+    "publisher": "CDC",
+    "category": "Emergency",
+    "url": "https://www.cdc.gov/stroke/signs-symptoms/index.html",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "6caca156152ac8425f046f9f6e383651b2650fc2626ab566e57fbf397d478150"
+  },
+  {
+    "id": "sepsis",
+    "title": "Recognizing sepsis",
+    "publisher": "CDC",
+    "category": "Emergency",
+    "url": "https://www.cdc.gov/sepsis/about/index.html",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "c3a6b75786ff2611eaff34d308cedf93060afbd88c7524189d00458c621642f2"
+  },
+  {
+    "id": "flu",
+    "title": "Flu symptoms and warning signs",
+    "publisher": "CDC",
+    "category": "Everyday health",
+    "url": "https://www.cdc.gov/flu/signs-symptoms/index.html",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "9bb52e2940e700f167e09ad4b36bd2cc7082c7e860c42f1ec3857dcdab7bfaed"
+  },
+  {
+    "id": "fever",
+    "title": "Fever in children and adults",
+    "publisher": "MedlinePlus",
+    "category": "Children & family",
+    "url": "https://medlineplus.gov/ency/article/003090.htm",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "7a8e2432ac10fb667593cc3f7746c5f2d0057be73e6d7218199c5c21fbfde892"
+  },
+  {
+    "id": "allergy",
+    "title": "Severe allergic reactions",
+    "publisher": "MedlinePlus",
+    "category": "Emergency",
+    "url": "https://medlineplus.gov/ency/article/000844.htm",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "2f8153928e7842f2b4829205bf3d3aadf0ec4850a64d52a04f5bc5278d42f7b3"
+  },
+  {
+    "id": "diarrhea",
+    "title": "Diarrhea and dehydration",
+    "publisher": "NIDDK",
+    "category": "Everyday health",
+    "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diarrhea/symptoms-causes",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "97bede3166a7c38f4c2eb80daf401906842b1a5cde2888fdc46c6e614303c612"
+  },
+  {
+    "id": "glucose",
+    "title": "Low blood glucose",
+    "publisher": "NIDDK",
+    "category": "Long-term conditions",
+    "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "78390dc4e5a926b4dc75d73dc885cb9318c2bfbb81d8b6206d90caf7d7409f64"
+  },
+  {
+    "id": "heat",
+    "title": "Heat and your health",
+    "publisher": "CDC",
+    "category": "Everyday health",
+    "url": "https://www.cdc.gov/heat-health/about/index.html",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "b8bef82be8b66b95e776233321f202ac1c095fb35410daccc2ad7624f2b1cf67"
+  },
+  {
+    "id": "maternal",
+    "title": "Urgent maternal warning signs",
+    "publisher": "CDC",
+    "category": "Children & family",
+    "url": "https://www.cdc.gov/hearher/maternal-warning-signs/index.html",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "b08a5d09f557539c61e5406aa7395e81aa073b80d0a3200c3286d0ea04f9a7f6"
+  },
+  {
+    "id": "medicine",
+    "title": "Acetaminophen safety",
+    "publisher": "FDA",
+    "category": "Medicines",
+    "url": "https://www.fda.gov/drugs/safe-use-over-counter-pain-relievers-and-fever-reducers/acetaminophen",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "3629048a08576661e030e2289633649016b50e275ed3724ac15d99277a86d711"
+  },
+  {
+    "id": "stress",
+    "title": "Stress and anxiety",
+    "publisher": "NIMH",
+    "category": "Mental wellbeing",
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "594bfcb1b66d3c13346ad7a378214f899c4fec75d77056fa0c4e235d2de1758e"
+  },
+  {
+    "id": "stress-pdf",
+    "title": "Stress and anxiety \u2014 fact sheet",
+    "publisher": "NIMH",
+    "category": "Mental wellbeing",
+    "url": "https://www.nimh.nih.gov/sites/default/files/documents/health/publications/so-stressed-out-fact-sheet/Im-So-Stressed-Out.pdf",
+    "format": "PDF",
+    "local": "/references/stress-pdf.pdf",
+    "checked": "2026-09-09",
+    "sha256": "017b39f139fa18529047fccd2695b30baa29f29c97720b5b214ea4468db172c1"
+  },
+  {
+    "id": "mental",
+    "title": "Caring for your mental health",
+    "publisher": "NIMH",
+    "category": "Mental wellbeing",
+    "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "2df71522443dd567847f41b39ac0a8c52e3f928d9346ee351700084b680a39b3"
+  },
+  {
+    "id": "asthma",
+    "title": "Asthma attacks",
+    "publisher": "NHLBI",
+    "category": "Long-term conditions",
+    "url": "https://www.nhlbi.nih.gov/health/asthma/attacks",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "c4dc52ed65a7b919d54fc89ea2df23e8f1fab8ed485f65c9d4239f4d8e20b25a"
+  },
+  {
+    "id": "pregnancy-pdf",
+    "title": "Maternal warning signs poster",
+    "publisher": "CDC",
+    "category": "Children & family",
+    "url": "https://www.cdc.gov/hearher/resources/download-share/docs/pdf/Warning-Signs-Poster-LTR-English.pdf",
+    "format": "PDF",
+    "local": "/references/pregnancy-pdf.pdf",
+    "checked": "2026-09-09",
+    "sha256": "2d2646f9fe369be4a2a8a4b45273688f5ca4c82e65262165ad33d656103d0531"
+  },
+  {
+    "id": "pregnancy-guide",
+    "title": "Talking about maternal warning signs",
+    "publisher": "CDC",
+    "category": "Children & family",
+    "url": "https://www.cdc.gov/hearher/docs/pdf/CDC-Hear-Her-Womens-urgent-warning-signs-h.pdf",
+    "format": "PDF",
+    "local": "/references/pregnancy-guide.pdf",
+    "checked": "2026-09-09",
+    "sha256": "838772be1dcbe9a5e4b6ee65fe75804a610aada7422119c4fb474a148272b7bf"
+  },
+  {
+    "id": "depression",
+    "title": "Understanding depression",
+    "publisher": "NIMH",
+    "category": "Mental wellbeing",
+    "url": "https://www.nimh.nih.gov/health/publications/depression",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "5e865d35b1103be91b52db38911aadcdf861e23a0de4e1b3e1eeb01399b987b8"
+  },
+  {
+    "id": "depression-pdf",
+    "title": "Understanding depression \u2014 fact sheet",
+    "publisher": "NIMH",
+    "category": "Mental wellbeing",
+    "url": "https://www.nimh.nih.gov/sites/default/files/health/publications/depression/depression.pdf",
+    "format": "PDF",
+    "local": "/references/depression-pdf.pdf",
+    "checked": "2026-09-09",
+    "sha256": "a65aa4022f641f9ee87bdd2b5058fcdf0e653db5341bf3014e073843607edbd0"
+  },
+  {
+    "id": "suicide",
+    "title": "5 action steps to help someone in emotional pain",
+    "publisher": "NIMH",
+    "category": "Mental wellbeing",
+    "url": "https://www.nimh.nih.gov/health/publications/5-action-steps-for-helping-someone-in-emotional-pain",
+    "format": "Article",
+    "local": null,
+    "checked": "2026-09-09",
+    "sha256": "42aada3bfb8ca82b648a9c759dea9bce7408c1c4456b0aaa05a5ed3063e4a68d"
+  },
+  {
+    "id": "suicide-pdf",
+    "title": "5 action steps to help someone in emotional pain \u2014 fact sheet",
+    "publisher": "NIMH",
+    "category": "Mental wellbeing",
+    "url": "https://www.nimh.nih.gov/sites/default/files/documents/health/publications/5-action-steps-help-someone-having-thoughts-suicide.pdf",
+    "format": "PDF",
+    "local": "/references/suicide-pdf.pdf",
+    "checked": "2026-09-09",
+    "sha256": "fd18254df5113189446cd960ea581fb6793ed58addd13b7c3120ec8dcb38ba18"
+  }
+]

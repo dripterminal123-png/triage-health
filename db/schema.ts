@@ -1,0 +1,4 @@
+import {sqliteTable,text,integer,index,uniqueIndex} from 'drizzle-orm/sqlite-core';
+export const workspaces=sqliteTable('health_workspaces',{userId:text('user_id').primaryKey(),data:text('data').notNull(),revision:integer('revision').notNull().default(0)});
+export const authUsers=sqliteTable('triage_auth_users',{id:text('id').primaryKey(),displayName:text('display_name').notNull(),email:text('email').notNull(),passwordHash:text('password_hash').notNull(),createdAt:integer('created_at').notNull() }, t=>({emailUnique:uniqueIndex('triage_auth_users_email_idx').on(t.email)}));
+export const authSessions=sqliteTable('triage_auth_sessions',{tokenHash:text('token_hash').primaryKey(),userId:text('user_id').notNull(),expiresAt:integer('expires_at').notNull(),createdAt:integer('created_at').notNull()}, t=>({userIdx:index('triage_auth_sessions_user_idx').on(t.userId),expiresIdx:index('triage_auth_sessions_expires_idx').on(t.expiresAt)}));

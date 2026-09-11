@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788928664914,
+      "tag": "0000_damp_rawhide_kid",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788928664915,
+      "tag": "0001_add_account_auth",
+      "breakpoints": true
+    }
+  ]
+}
