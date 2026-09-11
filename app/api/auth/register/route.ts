@@ -18,5 +18,10 @@ export async function POST(r:Request){
     await env.DB!.prepare('INSERT INTO triage_auth_users(id,display_name,email,password_hash,created_at) VALUES(?,?,?,?,?)').bind(id,displayName,email,await hashPassword(password),Date.now()).run();
     const session=await createSession(id,r.url);
     return Response.json({user:{id,displayName,email}},{headers:{'Set-Cookie':session.cookie,'Cache-Control':'no-store'}});
-  }catch{return Response.json({error:'Could not create your account. Please try again.'},{status:503});}
+  }catch(error){
+    console.error('REGISTER ERROR:', error);
+    return Response.json({
+      error: error instanceof Error ? error.message : String(error)
+    },{status:503});
+  }
 }

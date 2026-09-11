@@ -10,7 +10,7 @@ export type ChatGPTUser = {
 
 const COOKIE = 'triage_session';
 const SESSION_DAYS = 30;
-const PBKDF2_ITERATIONS = 120000;
+const PBKDF2_ITERATIONS = 100000;
 
 let schemaReady: Promise<void> | null = null;
 
